@@ -4,17 +4,17 @@
     "url": "$COP",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "cop",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 559,
-    "timeDay": 518,
-    "timeWeek": 567,
-    "timeMonth": 559,
-    "timeYear": 559,
+    "time": 555,
+    "timeDay": 507,
+    "timeWeek": 558,
+    "timeMonth": 555,
+    "timeYear": 555,
     "dailyMinutesDown": {}
   }
 ]
