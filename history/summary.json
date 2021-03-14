@@ -4,7 +4,7 @@
     "url": "$COP",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "cop",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,6 +15,8 @@
     "timeWeek": 750,
     "timeMonth": 604,
     "timeYear": 596,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-14": 0
+    }
   }
 ]
