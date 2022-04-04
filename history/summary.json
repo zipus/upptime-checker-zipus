@@ -5,15 +5,15 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "cop",
     "status": "up",
-    "uptime": "75.17%",
+    "uptime": "75.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "77.04%",
+    "uptimeYear": "77.32%",
     "time": 564,
-    "timeDay": 457,
-    "timeWeek": 527,
-    "timeMonth": 559,
+    "timeDay": 505,
+    "timeWeek": 529,
+    "timeMonth": 554,
     "timeYear": 544,
     "dailyMinutesDown": {
       "2022-02-17": 20,
@@ -100,8 +100,7 @@
       "2021-04-08": 1440,
       "2021-04-07": 1440,
       "2021-04-06": 1440,
-      "2021-04-05": 1440,
-      "2021-04-04": 1440
+      "2021-04-05": 1440
     }
   }
 ]
