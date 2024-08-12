@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cop",
     "status": "up",
-    "uptime": "91.90%",
+    "uptime": "91.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 628,
-    "timeDay": 603,
-    "timeWeek": 656,
-    "timeMonth": 634,
-    "timeYear": 620,
+    "time": 627,
+    "timeDay": 477,
+    "timeWeek": 605,
+    "timeMonth": 629,
+    "timeYear": 619,
     "dailyMinutesDown": {}
   }
 ]
