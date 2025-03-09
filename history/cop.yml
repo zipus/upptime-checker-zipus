@@ -1,7 +1,7 @@
 url: $COP
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-03-09T17:52:41.774Z
+status: up
+code: 200
+responseTime: 167
+lastUpdated: 2025-03-09T17:59:35.949Z
 startTime: 2021-02-10T23:58:13.000Z
 generator: Upptime <https://github.com/upptime/upptime>
