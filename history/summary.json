@@ -4,19 +4,19 @@
     "url": "$COP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cop",
-    "status": "down",
+    "status": "up",
     "uptime": "93.13%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 633,
-    "timeDay": 544,
-    "timeWeek": 724,
-    "timeMonth": 604,
+    "timeDay": 613,
+    "timeWeek": 719,
+    "timeMonth": 606,
     "timeYear": 637,
     "dailyMinutesDown": {
-      "2025-03-26": 0
+      "2025-03-26": 6
     }
   }
 ]
