@@ -6,17 +6,15 @@
     "slug": "cop",
     "status": "up",
     "uptime": "93.13%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 633,
-    "timeDay": 613,
-    "timeWeek": 719,
+    "timeDay": 619,
+    "timeWeek": 683,
     "timeMonth": 606,
     "timeYear": 637,
-    "dailyMinutesDown": {
-      "2025-03-26": 6
-    }
+    "dailyMinutesDown": {}
   }
 ]
