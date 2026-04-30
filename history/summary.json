@@ -4,7 +4,7 @@
     "url": "$COP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cop",
-    "status": "up",
+    "status": "down",
     "uptime": "94.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 677,
     "timeYear": 699,
     "dailyMinutesDown": {
+      "2026-04-30": 0,
       "2025-12-15": 41,
       "2025-10-22": 34,
       "2025-06-23": 486,
